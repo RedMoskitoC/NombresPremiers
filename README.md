@@ -1,5 +1,7 @@
 # Nombres Premiers
 
+[programme des nombre premiers](https://github.com/RedMoskitoC/NombresPremiers/blob/main/nomprem3.py)
+
 On calcule les nombres premiers entre 0 et N.
 
 Pour cela on utilise le [crible d'Ératosthène](https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne)
